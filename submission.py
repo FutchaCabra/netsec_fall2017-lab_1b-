@@ -89,7 +89,7 @@ class UserPassword(PacketType):
 		basicUnitTest()
 		
 		
-	# print ("Basic Unit Test Completed")
+	print ("Basic Unit Test Completed")
 		
 	
 	#for packet in deserializer.nextPackets():
